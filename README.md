@@ -13,10 +13,9 @@ A machine learning project that predicts stock closing prices using Linear Regre
 ## Workflow
 
 1. Load Kaggle dataset
-2. Clean data
-3. Train Linear Regression model
-4. Predict stock prices
-5. Visualize results
+2. Train Linear Regression model
+3. Predict stock prices
+4. Visualize results
 
 ## Results
 
